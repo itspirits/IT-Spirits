@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Who We Are?
 
-You can use the [editor on GitHub](https://github.com/itspirits/itspirits/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a team of freelanceers. We provide an end to end IT solutions to business i.e. from understanding requirements, designing system, architecting, developing, testing, deploying and to maintain & support it.
+We also provide data driven solutions in artifical intelligence using machine learning, deep learning and natural language processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Domains we already delivered projects.
 
-### Markdown
+We have good understanding of Banking and Financial services, Automotives, Oil Industries, Healthcare and Education system.
+We built products on computer vision for the nodule detection and covid detection,tace recongnition system, creation of user interface using artificial intelligence,teeth disease identification, chatbot for the restaurants and ticket management system.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tools and Technologies
 
-```markdown
-Syntax highlighted code block
+We are expertised in developing web, mobile and desktop application. We have handson with below mentioned tools & technologies.
 
-# Header 1
-## Header 2
-### Header 3
+- C#
+- .Net
+- .Net Core
+- Asp.Net (Web Forms and MVC)
+- Web API
+- Windows Communication Foundation (WCF)
+- Windows Presentation Foundation (WPF)
+- Xamarin Forms
+- Microsoft SQL Server
+- MySQL
+- ADO.Net
+- Entity Framework
+- Blazor
+- Python
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itspirits/itspirits/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us via email: (mailto:itspirits89@gmail.com)
